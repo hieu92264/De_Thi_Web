@@ -1,0 +1,22 @@
+"auto_complete_triggers": [{"selector": "text.html", "characters": "b4"}]
+header {
+	text-align: center;
+	font-weight: bold;
+}
+
+content {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	font-style: italic;
+}
+
+ul {
+	background-color: #d2d2d2;
+}
+
+li {
+	padding: 14px 16px;
+}
